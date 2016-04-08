@@ -97,6 +97,7 @@ This will download all PDFs and power-point slides into a folder called `resourc
 - [GPU Gems 3: Practical Post-Process Depth of Field (2008)](http://http.developer.nvidia.com/GPUGems3/gpugems3_ch28.html)
 - Realtime Blooming Effect: [link1](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCMQFjAA&url=https%3A%2F%2Ftransporter-game.googlecode.com%2Ffiles%2FRealtimeHDRImageBasedLighting.pdf&ei=buBhVcLmA8jaUYiSgLgK&usg=AFQjCNFfbP9L7iEiGT6gQNW6dB2JFVcTmA&bvm=bv.93990622,d.d24), [link2](https://software.intel.com/en-us/articles/compute-shader-hdr-and-bloom)
 - [Fast Gaussian Blur](http://xissburg.com/faster-gaussian-blur-in-glsl/)
+- Fast approXimate Anti-Aliasing (FXAA) [link1](http://developer.download.nvidia.com/assets/gamedev/files/sdk/11/FXAA_WhitePaper.pdf), [link2](http://www.geeks3d.com/20110405/fxaa-fast-approximate-anti-aliasing-demo-glsl-opengl-test-radeon-geforce/3/)
 
 ## Ray Tracing & Distance Functions
 
